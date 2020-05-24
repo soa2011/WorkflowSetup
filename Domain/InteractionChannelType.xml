@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" name="InteractionChannelType">
+    <sch:name>InteractionChannelType</sch:name>
+    <sch:domainType>LIST_OF_VALUES</sch:domainType>
+    <sch:description></sch:description>
+    <sch:domainEntries>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>1</sch:seqNumber>
+            <sch:displayValue>Drop Down Menu</sch:displayValue>
+            <sch:dataValue>Drop Down Menu</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>2</sch:seqNumber>
+            <sch:displayValue>Tab Bar</sch:displayValue>
+            <sch:dataValue>Tab Bar</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>3</sch:seqNumber>
+            <sch:displayValue>Button</sch:displayValue>
+            <sch:dataValue>Button</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>4</sch:seqNumber>
+            <sch:displayValue>Event Responder</sch:displayValue>
+            <sch:dataValue>Event Responder</sch:dataValue>
+        </sch:BmfDomainEntry>
+    </sch:domainEntries>
+</sch:DomainTable>

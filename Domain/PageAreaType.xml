@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" name="PageAreaType">
+    <sch:name>PageAreaType</sch:name>
+    <sch:domainType>LIST_OF_VALUES</sch:domainType>
+    <sch:description></sch:description>
+    <sch:domainEntries>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>1</sch:seqNumber>
+            <sch:displayValue>One to One Display</sch:displayValue>
+            <sch:dataValue>One to One Display</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>2</sch:seqNumber>
+            <sch:displayValue>One to Many Display</sch:displayValue>
+            <sch:dataValue>One to Many Display</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>3</sch:seqNumber>
+            <sch:displayValue>One to One Editable</sch:displayValue>
+            <sch:dataValue>One to One Editable</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>4</sch:seqNumber>
+            <sch:displayValue>One to Many Editable</sch:displayValue>
+            <sch:dataValue>One to Many Editable</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>5</sch:seqNumber>
+            <sch:displayValue>External Control</sch:displayValue>
+            <sch:dataValue>External Control</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>6</sch:seqNumber>
+            <sch:displayValue>Component</sch:displayValue>
+            <sch:dataValue>Component</sch:dataValue>
+        </sch:BmfDomainEntry>
+    </sch:domainEntries>
+</sch:DomainTable>

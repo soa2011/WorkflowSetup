@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" name="ObjectType">
+    <sch:name>ObjectType</sch:name>
+    <sch:domainType>REFERENCE</sch:domainType>
+    <sch:description>%s</sch:description>
+    <sch:domainEntries/>
+</sch:DomainTable>
