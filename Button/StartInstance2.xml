@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Button xmlns:sch="http://aiaf.com/schemas" name="StartInstance2">
+    <sch:seqIndex>13</sch:seqIndex>
+    <sch:name>StartInstance2</sch:name>
+    <sch:label>Start Workflow2</sch:label>
+    <sch:behavior>DynamicRoute</sch:behavior>
+    <sch:bmfTransactionName></sch:bmfTransactionName>
+    <sch:content>/WorkflowStart/s_${oid}</sch:content>
+    <sch:appliesTo></sch:appliesTo>
+    <sch:securityToken></sch:securityToken>
+    <sch:description></sch:description>
+</sch:Button>

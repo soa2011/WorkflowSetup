@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Button xmlns:sch="http://aiaf.com/schemas" name="ViewHistory">
+    <sch:seqIndex>8</sch:seqIndex>
+    <sch:name>ViewHistory</sch:name>
+    <sch:label>View History</sch:label>
+    <sch:behavior>ExecuteJavaScript</sch:behavior>
+    <sch:bmfTransactionName></sch:bmfTransactionName>
+    <sch:content>BmfAggrEditor.showItemHistory(summaryTable)</sch:content>
+    <sch:appliesTo></sch:appliesTo>
+    <sch:securityToken></sch:securityToken>
+    <sch:description></sch:description>
+</sch:Button>
