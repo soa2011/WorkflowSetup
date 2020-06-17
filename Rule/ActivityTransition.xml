@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Rule xmlns:sch="http://Baf.com/schemas" name="ActivityTransition">
+    <sch:name>ActivityTransition</sch:name>
+    <sch:tableName>ActivityTransition</sch:tableName>
+    <sch:referenceName></sch:referenceName>
+    <sch:referenceNumber></sch:referenceNumber>
+    <sch:ruleType>OnChange</sch:ruleType>
+    <sch:ruleCode></sch:ruleCode>
+    <sch:ruleLanguage>Groovy</sch:ruleLanguage>
+    <sch:ruleBody>workflowAggrManager.updateActivityTransition(context)</sch:ruleBody>
+    <sch:seqNumber>5</sch:seqNumber>
+</sch:Rule>

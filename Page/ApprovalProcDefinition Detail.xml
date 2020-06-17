@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:PageDefinition xmlns:sch="http://aiaf.com/schemas" name="ApprovalProcDefinition Detail">
+<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="ApprovalProcDefinition Detail">
     <sch:name>ApprovalProcDefinition Detail</sch:name>
     <sch:pageNumber></sch:pageNumber>
     <sch:pageType>Detail</sch:pageType>

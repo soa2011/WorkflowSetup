@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" name="ActorCategory">
+<sch:DomainTable xmlns:sch="http://Baf.com/schemas" name="ActorCategory">
     <sch:name>ActorCategory</sch:name>
     <sch:domainType>REFERENCE</sch:domainType>
     <sch:description>%s</sch:description>

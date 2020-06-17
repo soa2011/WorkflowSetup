@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" name="ActivityOutcome">
+<sch:ObjectType xmlns:sch="http://Baf.com/schemas" name="ActivityOutcome">
     <sch:name>ActivityOutcome</sch:name>
     <sch:tableType>System</sch:tableType>
     <sch:archetype>CONFIG</sch:archetype>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:Transaction xmlns:sch="http://aiaf.com/schemas" name="DeployWorkflowModel">
+<sch:Transaction xmlns:sch="http://Baf.com/schemas" name="DeployWorkflowModel">
     <sch:seqIndex>0</sch:seqIndex>
     <sch:name>DeployWorkflowModel</sch:name>
     <sch:businessName></sch:businessName>

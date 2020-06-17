@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" name="ApprovalStepType">
+<sch:DomainTable xmlns:sch="http://Baf.com/schemas" name="ApprovalStepType">
     <sch:name>ApprovalStepType</sch:name>
     <sch:domainType>LIST_OF_VALUES</sch:domainType>
     <sch:description></sch:description>
