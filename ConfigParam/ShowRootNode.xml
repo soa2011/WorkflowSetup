@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sch:ConfigParam xmlns:sch="http://Baf.com/schemas" name="ShowRootNode">
     <sch:seqIndex>2</sch:seqIndex>
-    <sch:paramName></sch:paramName>
+    <sch:name>ShowRootNode</sch:name>
     <sch:paramValue>false</sch:paramValue>
     <sch:category>System</sch:category>
     <sch:subCategory></sch:subCategory>

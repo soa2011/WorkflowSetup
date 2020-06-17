@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sch:ConfigParam xmlns:sch="http://Baf.com/schemas" name="ManagerBean">
     <sch:seqIndex>1</sch:seqIndex>
-    <sch:paramName></sch:paramName>
+    <sch:name>ManagerBean</sch:name>
     <sch:paramValue>processManager</sch:paramValue>
     <sch:category>System</sch:category>
     <sch:subCategory></sch:subCategory>
