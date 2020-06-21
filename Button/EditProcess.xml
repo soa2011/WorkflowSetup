@@ -5,7 +5,7 @@
     <sch:label>EditProcess</sch:label>
     <sch:behavior>ExecuteJavaScript</sch:behavior>
     <sch:bmfTransactionName></sch:bmfTransactionName>
-    <sch:content>editProcess()</sch:content>
+    <sch:content>window.open("/aiaf-ui/app/kkstudio/index.html#/Process/f/" + oid)</sch:content>
     <sch:appliesTo></sch:appliesTo>
     <sch:securityToken></sch:securityToken>
     <sch:description></sch:description>
