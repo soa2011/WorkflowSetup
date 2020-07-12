@@ -3,5 +3,17 @@
     <sch:name>ActorCategory</sch:name>
     <sch:domainType>REFERENCE</sch:domainType>
     <sch:description>%s</sch:description>
+    <sch:domainKeys>
+        <sch:BmfDomainKey>
+            <sch:seqNo>1</sch:seqNo>
+            <sch:domainTableId></sch:domainTableId>
+            <sch:domainTableReference></sch:domainTableReference>
+            <sch:name>ActorCategory</sch:name>
+            <sch:columnName>ActorCategory</sch:columnName>
+            <sch:type></sch:type>
+            <sch:keySize></sch:keySize>
+            <sch:description></sch:description>
+        </sch:BmfDomainKey>
+    </sch:domainKeys>
     <sch:domainEntries/>
 </sch:DomainTable>

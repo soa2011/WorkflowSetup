@@ -3,126 +3,151 @@
     <sch:name>Hours</sch:name>
     <sch:domainType>LIST_OF_VALUES</sch:domainType>
     <sch:description></sch:description>
+    <sch:domainKeys/>
     <sch:domainEntries>
         <sch:BmfDomainEntry>
             <sch:seqNumber>1</sch:seqNumber>
             <sch:displayValue>0</sch:displayValue>
             <sch:dataValue>0</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>2</sch:seqNumber>
             <sch:displayValue>1</sch:displayValue>
             <sch:dataValue>1</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>3</sch:seqNumber>
             <sch:displayValue>2</sch:displayValue>
             <sch:dataValue>2</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>4</sch:seqNumber>
             <sch:displayValue>3</sch:displayValue>
             <sch:dataValue>3</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>5</sch:seqNumber>
             <sch:displayValue>4</sch:displayValue>
             <sch:dataValue>4</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>6</sch:seqNumber>
             <sch:displayValue>5</sch:displayValue>
             <sch:dataValue>5</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>7</sch:seqNumber>
             <sch:displayValue>6</sch:displayValue>
             <sch:dataValue>6</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>8</sch:seqNumber>
             <sch:displayValue>7</sch:displayValue>
             <sch:dataValue>7</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>9</sch:seqNumber>
             <sch:displayValue>8</sch:displayValue>
             <sch:dataValue>8</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>10</sch:seqNumber>
             <sch:displayValue>9</sch:displayValue>
             <sch:dataValue>9</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>11</sch:seqNumber>
             <sch:displayValue>10</sch:displayValue>
             <sch:dataValue>10</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>12</sch:seqNumber>
             <sch:displayValue>11</sch:displayValue>
             <sch:dataValue>11</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>13</sch:seqNumber>
             <sch:displayValue>12</sch:displayValue>
             <sch:dataValue>12</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>14</sch:seqNumber>
             <sch:displayValue>13</sch:displayValue>
             <sch:dataValue>13</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>15</sch:seqNumber>
             <sch:displayValue>14</sch:displayValue>
             <sch:dataValue>14</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>16</sch:seqNumber>
             <sch:displayValue>15</sch:displayValue>
             <sch:dataValue>15</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>17</sch:seqNumber>
             <sch:displayValue>16</sch:displayValue>
             <sch:dataValue>16</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>18</sch:seqNumber>
             <sch:displayValue>17</sch:displayValue>
             <sch:dataValue>17</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>19</sch:seqNumber>
             <sch:displayValue>18</sch:displayValue>
             <sch:dataValue>18</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>20</sch:seqNumber>
             <sch:displayValue>19</sch:displayValue>
             <sch:dataValue>19</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>21</sch:seqNumber>
             <sch:displayValue>20</sch:displayValue>
             <sch:dataValue>20</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>22</sch:seqNumber>
             <sch:displayValue>21</sch:displayValue>
             <sch:dataValue>21</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>23</sch:seqNumber>
             <sch:displayValue>22</sch:displayValue>
             <sch:dataValue>22</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>24</sch:seqNumber>
             <sch:displayValue>23</sch:displayValue>
             <sch:dataValue>23</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
     </sch:domainEntries>
 </sch:DomainTable>
