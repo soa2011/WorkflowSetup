@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sch:Rule xmlns:sch="http://Baf.com/schemas" name="ActivityAssociatedExpression">
     <sch:name>ActivityAssociatedExpression</sch:name>
-    <sch:tableName>ActivityAssociatedExpression</sch:tableName>
+    <sch:objectTypeName>ActivityAssociatedExpression</sch:objectTypeName>
     <sch:referenceName></sch:referenceName>
-    <sch:referenceNumber></sch:referenceNumber>
+    <sch:fieldName></sch:fieldName>
     <sch:ruleType>OnChange</sch:ruleType>
     <sch:ruleCode></sch:ruleCode>
-    <sch:ruleLanguage>Groovy</sch:ruleLanguage>
+    <sch:ruleLanguage></sch:ruleLanguage>
     <sch:ruleBody>workflowAggrManager.updateAssociatedExpression(context)</sch:ruleBody>
     <sch:seqNumber>3</sch:seqNumber>
+    <sch:description></sch:description>
 </sch:Rule>

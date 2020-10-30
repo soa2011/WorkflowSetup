@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sch:Button xmlns:sch="http://Baf.com/schemas" name="DeepCopy">
-    <sch:seqIndex>5</sch:seqIndex>
     <sch:name>DeepCopy</sch:name>
     <sch:label>DeepCopy</sch:label>
     <sch:behavior>ExecuteJavaScript</sch:behavior>
