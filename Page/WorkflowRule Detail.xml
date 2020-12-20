@@ -666,15 +666,5 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:bmfButton isRef="true">ValidateWorkflow</sch:bmfButton>
         </sch:BmfPageButton>
-        <sch:BmfPageButton>
-            <sch:seqNumber>2700</sch:seqNumber>
-            <sch:buttonName>StartInstance</sch:buttonName>
-            <sch:displayCondition></sch:displayCondition>
-            <sch:displayResource></sch:displayResource>
-            <sch:description></sch:description>
-            <sch:showButton>true</sch:showButton>
-            <sch:eventHandler></sch:eventHandler>
-            <sch:bmfButton isRef="true">StartInstance</sch:bmfButton>
-        </sch:BmfPageButton>
     </sch:buttons>
 </sch:PageDefinition>

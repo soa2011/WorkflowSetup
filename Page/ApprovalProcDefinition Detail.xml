@@ -543,26 +543,6 @@
     <sch:treeNodes/>
     <sch:buttons>
         <sch:BmfPageButton>
-            <sch:seqNumber>2400</sch:seqNumber>
-            <sch:buttonName>UploadProcess</sch:buttonName>
-            <sch:displayCondition></sch:displayCondition>
-            <sch:displayResource></sch:displayResource>
-            <sch:description></sch:description>
-            <sch:showButton>true</sch:showButton>
-            <sch:eventHandler></sch:eventHandler>
-            <sch:bmfButton isRef="true">UploadProcess</sch:bmfButton>
-        </sch:BmfPageButton>
-        <sch:BmfPageButton>
-            <sch:seqNumber>2500</sch:seqNumber>
-            <sch:buttonName>ViewApprovalProcess</sch:buttonName>
-            <sch:displayCondition></sch:displayCondition>
-            <sch:displayResource></sch:displayResource>
-            <sch:description></sch:description>
-            <sch:showButton>true</sch:showButton>
-            <sch:eventHandler></sch:eventHandler>
-            <sch:bmfButton isRef="true">ViewApprovalProcess</sch:bmfButton>
-        </sch:BmfPageButton>
-        <sch:BmfPageButton>
             <sch:seqNumber>2600</sch:seqNumber>
             <sch:buttonName>ValidateWorkflow</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
@@ -590,7 +570,6 @@
             <sch:description></sch:description>
             <sch:showButton>true</sch:showButton>
             <sch:eventHandler></sch:eventHandler>
-            <sch:bmfButton isRef="true">StartInstance</sch:bmfButton>
         </sch:BmfPageButton>
     </sch:buttons>
 </sch:PageDefinition>

@@ -264,7 +264,7 @@
             <sch:fieldName></sch:fieldName>
             <sch:ruleType>OnChange</sch:ruleType>
             <sch:ruleCode></sch:ruleCode>
-            <sch:ruleLanguage></sch:ruleLanguage>
+            <sch:ruleLanguage>Groovy</sch:ruleLanguage>
             <sch:ruleBody>workflowAggrManager.updateActivityAssociatedTask(context)</sch:ruleBody>
             <sch:seqNumber>9</sch:seqNumber>
             <sch:description></sch:description>
