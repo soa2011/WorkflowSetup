@@ -57,7 +57,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>true</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -115,7 +114,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>true</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -174,7 +172,6 @@
             <sch:filterType>Edit</sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition>Yes</sch:readOnlyCondition>
@@ -232,7 +229,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -290,7 +286,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -348,7 +343,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -406,7 +400,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -464,7 +457,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -522,7 +514,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -580,7 +571,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -638,7 +628,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -696,7 +685,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>true</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -754,7 +742,6 @@
             <sch:filterType>Edit</sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition>Yes</sch:readOnlyCondition>
@@ -812,7 +799,6 @@
             <sch:filterType>Edit</sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition>Yes</sch:readOnlyCondition>
@@ -870,7 +856,6 @@
             <sch:filterType>Edit</sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition>Yes</sch:readOnlyCondition>
@@ -928,10 +913,9 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition>Yes</sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
-            <sch:readOnlyCondition></sch:readOnlyCondition>
+            <sch:readOnlyCondition>Yes</sch:readOnlyCondition>
             <sch:displayResource></sch:displayResource>
             <sch:modifyResource></sch:modifyResource>
             <sch:displayResource2></sch:displayResource2>
@@ -986,7 +970,6 @@
             <sch:filterType>Edit</sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition>Yes</sch:readOnlyCondition>
@@ -1044,7 +1027,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>true</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -1102,7 +1084,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -1160,7 +1141,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
@@ -1218,7 +1198,6 @@
             <sch:filterType></sch:filterType>
             <sch:display>true</sch:display>
             <sch:required>false</sch:required>
-            <sch:disabledCondition></sch:disabledCondition>
             <sch:displayCondition></sch:displayCondition>
             <sch:requiredCondition></sch:requiredCondition>
             <sch:readOnlyCondition></sch:readOnlyCondition>
