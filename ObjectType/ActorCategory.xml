@@ -4,7 +4,6 @@
     <sch:tableType>System</sch:tableType>
     <sch:archeType>CONFIG</sch:archeType>
     <sch:parentTypeName>WorkflowSetup</sch:parentTypeName>
-    <sch:superTypeName></sch:superTypeName>
     <sch:accessMode>TableDirect</sch:accessMode>
     <sch:primaryField></sch:primaryField>
     <sch:primaryKey></sch:primaryKey>

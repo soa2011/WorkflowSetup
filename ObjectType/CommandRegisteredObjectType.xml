@@ -4,7 +4,6 @@
     <sch:tableType>Risk</sch:tableType>
     <sch:archeType>CONFIG</sch:archeType>
     <sch:parentTypeName>CommandDefinition</sch:parentTypeName>
-    <sch:superTypeName></sch:superTypeName>
     <sch:accessMode>TableDirect</sch:accessMode>
     <sch:primaryField></sch:primaryField>
     <sch:primaryKey></sch:primaryKey>

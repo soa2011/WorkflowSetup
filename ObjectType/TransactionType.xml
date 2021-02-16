@@ -4,7 +4,6 @@
     <sch:tableType>Risk</sch:tableType>
     <sch:archeType>NORMAL</sch:archeType>
     <sch:parentTypeName>WorkflowSetup</sch:parentTypeName>
-    <sch:superTypeName></sch:superTypeName>
     <sch:accessMode>TableDirect</sch:accessMode>
     <sch:primaryField></sch:primaryField>
     <sch:primaryKey></sch:primaryKey>
