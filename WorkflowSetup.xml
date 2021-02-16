@@ -2,7 +2,7 @@
 <sch:BmfAppModel xmlns:sch="http://Baf.com/schemas" name="WorkflowSetup">
     <sch:name>WorkflowSetup</sch:name>
     <sch:aggrRootName>WorkflowSetup</sch:aggrRootName>
-    <sch:revision>50</sch:revision>
+    <sch:revision>51</sch:revision>
     <sch:modelType>CUSTOM_MODEL</sch:modelType>
     <sch:historyMode>SYSTEM_HISTORY</sch:historyMode>
     <sch:baseModel>WorkflowSetup</sch:baseModel>

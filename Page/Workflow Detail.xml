@@ -1231,14 +1231,24 @@
     <sch:treeNodes/>
     <sch:buttons>
         <sch:BmfPageButton>
-            <sch:seqNumber>2550</sch:seqNumber>
-            <sch:buttonName>EditProcess</sch:buttonName>
+            <sch:seqNumber>2000</sch:seqNumber>
+            <sch:buttonName>InitWorkflow</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
             <sch:description></sch:description>
             <sch:showButton>true</sch:showButton>
             <sch:eventHandler></sch:eventHandler>
-            <sch:bmfButton isRef="true">EditProcess</sch:bmfButton>
+            <sch:bmfButton isRef="true">InitWorkflow</sch:bmfButton>
+        </sch:BmfPageButton>
+        <sch:BmfPageButton>
+            <sch:seqNumber>2550</sch:seqNumber>
+            <sch:buttonName>EditWorkflow</sch:buttonName>
+            <sch:displayCondition></sch:displayCondition>
+            <sch:displayResource></sch:displayResource>
+            <sch:description></sch:description>
+            <sch:showButton>true</sch:showButton>
+            <sch:eventHandler></sch:eventHandler>
+            <sch:bmfButton isRef="true">EditWorkflow</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
             <sch:seqNumber>2800</sch:seqNumber>

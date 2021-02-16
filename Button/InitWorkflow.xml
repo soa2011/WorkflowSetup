@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:Button xmlns:sch="http://Baf.com/schemas" name="LoadAggrModel">
-    <sch:name>LoadAggrModel</sch:name>
+<sch:Button xmlns:sch="http://Baf.com/schemas" name="InitWorkflow">
+    <sch:name>InitWorkflow</sch:name>
     <sch:label>SyncModule</sch:label>
     <sch:behavior>ExecuteMethod</sch:behavior>
-    <sch:bmfTransactionName>LoadAggrModel</sch:bmfTransactionName>
+    <sch:bmfTransactionName>InitWorkflow</sch:bmfTransactionName>
     <sch:content></sch:content>
     <sch:appliesTo></sch:appliesTo>
     <sch:securityToken></sch:securityToken>
     <sch:description></sch:description>
-    <sch:bmfTransaction isRef="true">LoadAggrModel</sch:bmfTransaction>
+    <sch:bmfTransaction isRef="true">InitWorkflow</sch:bmfTransaction>
 </sch:Button>

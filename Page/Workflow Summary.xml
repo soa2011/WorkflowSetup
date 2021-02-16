@@ -604,13 +604,13 @@
     <sch:buttons>
         <sch:BmfPageButton>
             <sch:seqNumber>1000</sch:seqNumber>
-            <sch:buttonName>EditProcess</sch:buttonName>
+            <sch:buttonName>EditWorkflow</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
             <sch:description></sch:description>
             <sch:showButton>true</sch:showButton>
             <sch:eventHandler></sch:eventHandler>
-            <sch:bmfButton isRef="true">EditProcess</sch:bmfButton>
+            <sch:bmfButton isRef="true">EditWorkflow</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
             <sch:seqNumber>150</sch:seqNumber>
