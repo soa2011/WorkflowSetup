@@ -660,7 +660,7 @@
             <sch:name></sch:name>
             <sch:seqNumber>800</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage>ExtInfo</sch:tabPage>
+            <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Section Header Begin</sch:fieldType>
             <sch:widgetType></sch:widgetType>
