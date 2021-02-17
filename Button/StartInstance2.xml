@@ -4,7 +4,7 @@
     <sch:label>Start Workflow</sch:label>
     <sch:behavior>DynamicRoute</sch:behavior>
     <sch:bmfTransactionName></sch:bmfTransactionName>
-    <sch:content>/WorkflowStart/s_${oid}</sch:content>
+    <sch:content>/WorkflowStarter/${oid}</sch:content>
     <sch:appliesTo></sch:appliesTo>
     <sch:securityToken></sch:securityToken>
     <sch:description></sch:description>
