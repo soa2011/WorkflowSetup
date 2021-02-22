@@ -180,26 +180,6 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>WorkflowTreeNode</sch:tableName>
-            <sch:type>Collection</sch:type>
-            <sch:seqIndex>500</sch:seqIndex>
-            <sch:format>Workflow TreeNodes(%s)</sch:format>
-            <sch:columns>#count</sch:columns>
-            <sch:action></sch:action>
-            <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:description></sch:description>
-        </sch:BmfTreeNode>
-        <sch:BmfTreeNode>
-            <sch:tableName>WorkflowTreeNode</sch:tableName>
-            <sch:type>Item</sch:type>
-            <sch:seqIndex>500</sch:seqIndex>
-            <sch:format>%s %s</sch:format>
-            <sch:columns>UnitNumber,Name</sch:columns>
-            <sch:action></sch:action>
-            <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:description></sch:description>
-        </sch:BmfTreeNode>
-        <sch:BmfTreeNode>
             <sch:tableName>Activity</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>400</sch:seqIndex>
@@ -437,46 +417,6 @@
             <sch:columns>UnitNumber,UserName</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:description></sch:description>
-        </sch:BmfTreeNode>
-        <sch:BmfTreeNode>
-            <sch:tableName>TreeDefinition</sch:tableName>
-            <sch:type>Collection</sch:type>
-            <sch:seqIndex>2300</sch:seqIndex>
-            <sch:format>Tree Definitions(%s)</sch:format>
-            <sch:columns>#count</sch:columns>
-            <sch:action></sch:action>
-            <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:description></sch:description>
-        </sch:BmfTreeNode>
-        <sch:BmfTreeNode>
-            <sch:tableName>TreeDefinition</sch:tableName>
-            <sch:type>Item</sch:type>
-            <sch:seqIndex>2300</sch:seqIndex>
-            <sch:format>%s</sch:format>
-            <sch:columns>Name</sch:columns>
-            <sch:action>No</sch:action>
-            <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:description></sch:description>
-        </sch:BmfTreeNode>
-        <sch:BmfTreeNode>
-            <sch:tableName>TreeNodeDefinition</sch:tableName>
-            <sch:type>Collection</sch:type>
-            <sch:seqIndex>2400</sch:seqIndex>
-            <sch:format>Tree Nodes(%s)</sch:format>
-            <sch:columns>#count</sch:columns>
-            <sch:action></sch:action>
-            <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:description></sch:description>
-        </sch:BmfTreeNode>
-        <sch:BmfTreeNode>
-            <sch:tableName>TreeNodeDefinition</sch:tableName>
-            <sch:type>Item</sch:type>
-            <sch:seqIndex>2400</sch:seqIndex>
-            <sch:format>%s</sch:format>
-            <sch:columns>Name</sch:columns>
-            <sch:action>No</sch:action>
-            <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
